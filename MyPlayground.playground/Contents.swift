@@ -2,4 +2,6 @@ import UIKit
 
 var greeting = "Hello, playground"
 
-var name = "McQueen"
+var firsNname = "McQueen"
+
+var lastName = "Lightning"
